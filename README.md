@@ -5,7 +5,7 @@ I enjoy building practical products across backend systems, mobile apps, and ret
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujan-ayyagari/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white)](https://sujan-ayyagari-portfolio-c1bba2.netlify.app)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/your-devpost-username)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/Sujan_Ayyagari)
 
 ---
 
@@ -71,7 +71,7 @@ I enjoy building practical products across backend systems, mobile apps, and ret
 
 📫 [LinkedIn](https://www.linkedin.com/in/sujan-ayyagari/)  
 🌐 [Portfolio](https://sujan-ayyagari-portfolio-c1bba2.netlify.app)  
-🏆 [Devpost]([https://devpost.com/your-devpost-username](https://devpost.com/Sujan_Ayyagari?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav))
+🏆 [Devpost](https://devpost.com/Sujan_Ayyagari)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayyagarisujanreddy123&style=flat-square&color=6366f1" alt="Profile Views" />
