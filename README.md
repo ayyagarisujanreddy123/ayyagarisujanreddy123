@@ -58,14 +58,6 @@ I enjoy building practical products across backend systems, mobile apps, and ret
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayyagarisujanreddy123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyagarisujanreddy123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-</p>
-
----
 
 ## Let's Connect
 
