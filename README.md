@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Sujan Ayyagari
+# Hey there! 👋 I'm Sujan Ayyagari 
 
 **Software Engineer focused on full-stack development, AI systems, and data-driven applications.**  
 I enjoy building practical products across backend systems, mobile apps, and retrieval-based AI workflows.
