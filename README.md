@@ -4,7 +4,7 @@
 I enjoy building practical products across backend systems, mobile apps, and retrieval-based AI workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujan-ayyagari/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white)](https://sujan-ayyagari.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white)](https://sujanayyagari.com)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/Sujan_Ayyagari)
 ---
 
@@ -61,7 +61,7 @@ I enjoy building practical products across backend systems, mobile apps, and ret
 ## Let's Connect
 
 📫 [LinkedIn](https://www.linkedin.com/in/sujan-ayyagari/)  
-🌐 [Portfolio](https://sujan-ayyagari-portfolio-c1bba2.netlify.app)  
+🌐 [Portfolio](https://sujanayyagari.com)  
 🏆 [Devpost](https://devpost.com/Sujan_Ayyagari)
 
 <p align="center">
